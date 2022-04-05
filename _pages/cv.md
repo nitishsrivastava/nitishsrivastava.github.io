@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech in Computer Science, IIT Kanpur, 2011.
+* M.S. in Computer Science, University of Toronto, 2013.
+* Ph.D in Computer Science, University of Toronto, 2017.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Staff Research Scientist, Apple Inc., Cupertino CA 2017-2022
+  * Self-supervised learning, reinforcement learning for embodied agents.
+  * Perception models for autonomous technologies.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Co-Founder, Clarevision Research Inc, Toronto, ON
+  * ML models for visual perception tasks in autonomous driving.
+  * 3D object detection and semantic segmentation on LiDAR and RGB data.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
