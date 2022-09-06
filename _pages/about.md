@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+I train neural networks to make robots autonomous.
 
-*[Feb 2022 - ]* I am the CTO and Co-Founder at [Vayu Robotics](https://www.vayurobotics.com). We are building the next-generation of autonomous mobile robots using revolutionary advances in machine learning and sensing technology. [Come join us!](https://www.vayurobotics.com/#contact-us-section)
+**[Feb 2022 - ]** I am the CTO and Co-Founder at [Vayu Robotics](https://www.vayurobotics.com). We are building the next-generation of autonomous mobile robots using revolutionary advances in machine learning and sensing technology. [Come join us!](https://www.vayurobotics.com/#contact-us-section)
 
-*[2017 - 2022]* I was a Staff Research Scientist at Apple, where I worked on machine learning for perception and planning applied to various embodied autonomous systems.
+**[2017 - 2022]** I was a Staff Research Scientist at Apple, where I worked on machine learning for perception and planning applied to various embodied autonomous systems.
 
-*[2015 - 2016]* I co-founded Clarevision Research, along with [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Charlie Tang](https://www.cs.toronto.edu/~tang/), where we developed perception neural networks for autonomous driving. The company was acquired by Apple.
+**[2015 - 2016]** I co-founded Clarevision Research, along with [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Charlie Tang](https://www.cs.toronto.edu/~tang/), where we developed perception neural networks for autonomous driving. The company was acquired by Apple.
 
-*[2011 - 2016]* I was a PhD student in the Machine Learning Group at the University of Toronto, working with [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/). I co-invented [dropout](https://jmlr.org/papers/v15/srivastava14a.html) and worked on Boltzmann Machines, video representation models, and transfer learning. During this time, I also spent two summers at Google Brain working on speech recognition (2012) and language models (2013).
+**[2011 - 2016]** I was a PhD student in the Machine Learning Group at the University of Toronto, working with [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/). I co-invented [dropout](https://jmlr.org/papers/v15/srivastava14a.html) and worked on Boltzmann Machines, video representation models, and transfer learning. During this time, I also spent two summers at Google Brain working on speech recognition (2012) and language models (2013).
 
-*[2007 - 2011]* I obtained my Bachelor's in Computer Science from IIT Kanpur, India. I also spent a summer at Microsoft Research (2010) working on natural language processing and another at Ecole Centrale, Paris (2009) as an undergraduate research exchange student.
+**[2007 - 2011]** I obtained my Bachelor's in Computer Science from IIT Kanpur, India. I also spent a summer at Microsoft Research (2010) working on natural language processing and another at Ecole Centrale, Paris (2009) as an undergraduate research exchange student.
 
 
 ## Publications
