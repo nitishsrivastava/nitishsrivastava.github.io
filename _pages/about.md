@@ -33,15 +33,15 @@ Arxiv preprint 2021.
 - **Unconstrained Scene Generation With Locally Conditioned Radiance Fields** <br/>
 [paper](https://openaccess.thecvf.com/content/ICCV2021/html/DeVries_Unconstrained_Scene_Generation_With_Locally_Conditioned_Radiance_Fields_ICCV_2021_paper.html) [pdf](https://arxiv.org/pdf/2104.00670) <br/> 
 Terrance DeVries, Miguel Angel Bautista, **Nitish Srivastava**, Graham Taylor, Josh Susskind <br/>
-ICCV 2021
+ICCV 2021.
 - **Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning**<br/>
 [arxiv](https://arxiv.org/abs/2105.08140) [pdf](https://arxiv.org/pdf/2105.08140) [code](https://github.com/apple/ml-uwac) <br/>
 Yue Wu, Shuangfei Zhai, **Nitish Srivastava**, Joshua Susskind, Jian Zhang, Ruslan Salakhutdinov, Hanlin Goh<br/>
-ICML 2021
+ICML 2021.
 - **On the Generalization of Learning-Based 3D Reconstruction**<br/>
 [paper](https://openaccess.thecvf.com/content/WACV2021/html/Bautista_On_the_Generalization_of_Learning-Based_3D_Reconstruction_WACV_2021_paper.html) [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Bautista_On_the_Generalization_of_Learning-Based_3D_Reconstruction_WACV_2021_paper.pdf) <br/>
 Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, **Nitish Srivastava**, Josh Susskind <br/>
-WACV 2021
+WACV 2021.
 - **An attention free transformer** <br/>
 [arxiv](https://arxiv.org/abs/2105.14103) [pdf](https://arxiv.org/pdf/2105.14103) <br/>
 Shuangfei Zhai, Walter Talbott, **Nitish Srivastava**, Chen Huang, Hanlin Goh, Ruixiang Zhang, Josh Susskind <br/>
@@ -84,8 +84,9 @@ Uncertainty in Artificial Intelligence (UAI) 2013, oral.
 - **Improving neural networks by preventing co-adaptation of feature detectors**<br/>
 [arxiv](https://arxiv.org/abs/1207.0580) [pdf](https://arxiv.org/pdf/1207.0580)<br/>
 Geoffrey Hinton, **Nitish Srivastava**, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov<br/>
+Arxiv preprint, 2012.
 - **Enriching textbooks through data mining**<br/>
 [paper](https://www.microsoft.com/en-us/research/publication/enriching-textbooks-through-data-mining)<br/>
 Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, **Nitish Srivastava**, Raja Velu<br/>
-ACM Symposium on Computing for Development (ACM DEV 2010)
+ACM Symposium on Computing for Development (ACM DEV 2010).
 
